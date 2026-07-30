@@ -13,6 +13,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
