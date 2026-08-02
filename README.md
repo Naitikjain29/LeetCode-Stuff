@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -67,4 +69,12 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
