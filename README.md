@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0020-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
