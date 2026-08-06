@@ -91,4 +91,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
