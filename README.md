@@ -36,6 +36,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -62,6 +63,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0237-delete-node-in-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
