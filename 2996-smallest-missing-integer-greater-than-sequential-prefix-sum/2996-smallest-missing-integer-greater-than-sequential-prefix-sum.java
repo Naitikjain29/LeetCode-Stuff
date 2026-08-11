@@ -1,32 +1,33 @@
-import java.util.HashSet;
-
 class Solution {
     public int missingInteger(int[] nums) {
         int n = nums.length;
-
-        // 1. Find sum of longest sequential prefix
         int sum = nums[0];
 
         for (int i = 1; i < n; i++) {
             if (nums[i] == nums[i - 1] + 1) {
                 sum += nums[i];
+
             } else {
                 break;
             }
         }
 
-        // 2. Store all numbers
-        HashSet<Integer> set = new HashSet<>();
+        while (true) {
+            boolean found = false;
 
-        for (int num : nums) {
-            set.add(num);
-        }
+            for (int num : nums) {
+                if (num == sum) {
+                    found = true;
+                    break;
+                }
 
-        // 3. Find smallest missing number >= sum
-        while (set.contains(sum)) {
+            }
+            if (!found) {
+                return sum;
+            }
             sum++;
+
         }
 
-        return sum;
     }
 }
