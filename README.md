@@ -103,9 +103,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0237-delete-node-in-a-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
