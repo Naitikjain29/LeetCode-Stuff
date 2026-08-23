@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
 | [1386-cinema-seat-allocation](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1386-cinema-seat-allocation) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -156,5 +158,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
