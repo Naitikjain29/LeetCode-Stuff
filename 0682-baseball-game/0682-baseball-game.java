@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int calPoints(String[] operations) {
         Stack<Integer> st = new Stack<>();
@@ -8,25 +6,27 @@ class Solution {
 
             if (op.equals("+")) {
                 int top = st.pop();
-                int secondTop = st.peek();
-                int sum = top + secondTop;
+                int secTop = st.peek();
 
-                st.push(top);   // restore
-                st.push(sum);   // push new score
+                st.push(top);
+                st.push(top + secTop);
+            }
 
-            } else if (op.equals("C")) {
+            else if (op.equals("C")) {
                 st.pop();
+            }
 
-            } else if (op.equals("D")) {
+            else if (op.equals("D")) {
                 st.push(st.peek() * 2);
+            }
 
-            } else {
-                // number case
+            else {
                 st.push(Integer.parseInt(op));
             }
         }
 
         int ans = 0;
+
         while (!st.isEmpty()) {
             ans += st.pop();
         }
