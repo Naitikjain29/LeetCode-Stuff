@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
 | [2029-stone-game-ix](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2029-stone-game-ix) |
@@ -72,6 +73,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
