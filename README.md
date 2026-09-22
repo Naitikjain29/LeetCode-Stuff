@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
@@ -103,6 +104,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0575-distribute-candies) |
 | [1386-cinema-seat-allocation](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
