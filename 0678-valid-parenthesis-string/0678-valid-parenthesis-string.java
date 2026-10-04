@@ -1,34 +1,45 @@
+import java.util.Stack;
+
 class Solution {
     public boolean checkValidString(String s) {
-        int cmin = 0; // Minimum possible open parentheses
-        int cmax = 0; // Maximum possible open parentheses
+        Stack<Integer> leftStack = new Stack<>();
+        Stack<Integer> starStack = new Stack<>();
 
+        // Step 1: Process the string from left to right
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
             if (ch == '(') {
-                cmin++;
-                cmax++;
-            } else if (ch == ')') {
-                cmin--;
-                cmax--;
+                leftStack.push(i);
             } else if (ch == '*') {
-                cmin--; // If '*' acts as ')', open count decreases
-                cmax++; // If '*' acts as '(', open count increases
-            }
-
-            // If max possible open parentheses drops below 0, there are too many ')'
-            if (cmax < 0) {
-                return false;
-            }
-
-            // cmin cannot be less than 0 (we cannot have a negative count of open brackets)
-            if (cmin < 0) {
-                cmin = 0;
+                starStack.push(i);
+            } else { // ch == ')'
+                // Try to balance ')' with a '(' first
+                if (!leftStack.isEmpty()) {
+                    leftStack.pop();
+                } 
+                // If no '(', try to balance ')' with a '*'
+                else if (!starStack.isEmpty()) {
+                    starStack.pop();
+                } 
+                // If neither is available, the string is invalid
+                else {
+                    return false;
+                }
             }
         }
 
-        // If 0 is within our possible range of open brackets, the string is valid
-        return cmin == 0;
+        // Step 2: Match remaining '(' with remaining '*'
+        while (!leftStack.isEmpty() && !starStack.isEmpty()) {
+            // If the '(' appears AFTER the '*', the '*' cannot close it (e.g., "*( ")
+            if (leftStack.peek() > starStack.peek()) {
+                return false;
+            }
+            leftStack.pop();
+            starStack.pop();
+        }
+
+        // If all left parentheses are balanced, the string is valid
+        return leftStack.isEmpty();
     }
 }
