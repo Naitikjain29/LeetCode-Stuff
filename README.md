@@ -16,6 +16,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2029-stone-game-ix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -54,6 +55,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3514-number-of-unique-xor-triplets-ii) |
