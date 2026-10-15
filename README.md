@@ -17,6 +17,7 @@
 | [2029-stone-game-ix](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2029-stone-game-ix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -133,6 +134,7 @@
 | [0575-distribute-candies](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0575-distribute-candies) |
 | [1386-cinema-seat-allocation](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1386-cinema-seat-allocation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -252,4 +254,12 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
