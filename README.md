@@ -15,6 +15,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -69,6 +70,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
