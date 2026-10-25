@@ -11,6 +11,7 @@
 | [0682-baseball-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
+| [1254-number-of-closed-islands](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -254,6 +255,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -272,4 +275,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
