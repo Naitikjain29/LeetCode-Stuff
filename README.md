@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0575-distribute-candies](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
