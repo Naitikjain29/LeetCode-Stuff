@@ -28,6 +28,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -82,6 +83,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -136,6 +138,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -238,6 +241,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
 | ------- |
@@ -253,6 +257,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
