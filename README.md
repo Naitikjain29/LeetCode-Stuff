@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0575-distribute-candies](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
