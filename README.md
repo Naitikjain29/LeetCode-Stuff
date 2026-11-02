@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0682-baseball-game) |
@@ -47,6 +48,7 @@
 | [0002-add-two-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
@@ -79,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
