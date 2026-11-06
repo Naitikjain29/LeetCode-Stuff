@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0027-remove-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
