@@ -48,6 +48,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -302,4 +304,8 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1254-number-of-closed-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
