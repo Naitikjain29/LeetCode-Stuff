@@ -34,6 +34,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -182,6 +183,7 @@
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3693-climbing-stairs-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
