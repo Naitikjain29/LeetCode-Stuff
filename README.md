@@ -19,6 +19,7 @@
 | [1254-number-of-closed-islands](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -57,6 +58,7 @@
 | [0836-rectangle-overlap](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2029-stone-game-ix](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -182,6 +184,7 @@
 | [0070-climbing-stairs](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3693-climbing-stairs-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3693-climbing-stairs-ii) |
@@ -268,6 +271,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3904-smallest-stable-index-ii) |
