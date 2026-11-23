@@ -17,6 +17,7 @@
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
 | [1254-number-of-closed-islands](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -58,6 +59,7 @@
 | [0836-rectangle-overlap](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2029-stone-game-ix](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2235-add-two-integers) |
@@ -274,6 +276,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3903-smallest-stable-index-i) |
@@ -320,4 +323,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
