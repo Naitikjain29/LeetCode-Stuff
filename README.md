@@ -30,6 +30,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -65,6 +66,7 @@
 | [2235-add-two-integers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -84,6 +86,7 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -248,6 +251,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Minimax
 |  |
 | ------- |
@@ -331,4 +335,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
