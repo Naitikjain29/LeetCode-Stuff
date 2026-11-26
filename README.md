@@ -66,6 +66,7 @@
 | [2235-add-two-integers](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3536-maximum-product-of-two-digits) |
@@ -277,6 +278,7 @@
 | [0682-baseball-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Naitikjain29/LeetCode-Stuff/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
